@@ -65,3 +65,5 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+.dart_tool/chrome-device/Default/blob_storage/
+.idea/vcs.xml
